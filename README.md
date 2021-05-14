@@ -63,7 +63,7 @@ Below
 
 ## Projects in queue 🔋
 
-- [ ] Blog
+- [x] Blog
 - [ ] Website
 - [ ] World changing startup 🤓
 - [x] Keep adding to the lists above 👍🏽
