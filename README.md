@@ -64,7 +64,8 @@ Below
 ## Projects in queue 🔋
 
 - [x] Blog
-- [ ] Website
+- [x] Website
+- [x] Begin Writeups for CTF's
 - [ ] World changing startup 🤓
 - [x] Keep adding to the lists above 👍🏽
 
